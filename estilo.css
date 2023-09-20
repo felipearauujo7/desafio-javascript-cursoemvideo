@@ -1,3 +1,5 @@
+
+
 body {
     background-color: rgba(65, 65, 235, 0.849);
     font: normal 15pt arial;
@@ -22,8 +24,10 @@ select#flista {
 }
 
 footer {
+    background-color: white;
     text-align: center;
     font-style: italic;
-    color: aliceblue;
+    color: black;
+    
 }
 
