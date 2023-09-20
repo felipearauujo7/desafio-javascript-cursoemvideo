@@ -1,4 +1,7 @@
-
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
 body {
     background-color: rgba(65, 65, 235, 0.849);
@@ -8,6 +11,7 @@ body {
 header {
     text-align: center;
     color: aliceblue;
+    margin: 20px;
 }
 
 section {
@@ -28,6 +32,8 @@ footer {
     text-align: center;
     font-style: italic;
     color: black;
-    
+    margin-top: 20px;
+    padding: 3px;
+    display: block;
+    font-size: 0.9em;
 }
-
